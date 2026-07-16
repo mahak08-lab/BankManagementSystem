@@ -52,14 +52,6 @@ src
  └── icon
 ```
 
----
-
-## 📷 Screenshots
-
-(Add screenshots of Login, Signup, Deposit, Withdraw, Balance Enquiry, Mini Statement)
-
----
-
 ## 📚 What I Learned
 
 - Java Swing GUI Development
